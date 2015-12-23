@@ -1,0 +1,296 @@
+[
+    {
+        "price": 48, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Курячі крильця Баффало", 
+        "snippet": "курячі крильця, гострий соус Чилі"
+    }, 
+    {
+        "price": 38, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Салат з теплим сиром", 
+        "snippet": "листя салату, помідор, оливки, сир, заправка майонезна"
+    }, 
+    {
+        "price": 80,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Цезар з куркою", 
+        "snippet": "листя салату, курка, грінки, сир пармезан, помідори,соус Цезар"
+    }, 
+    {
+        "price": 42, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Салат з курки та печериць", 
+        "snippet": "куряче філе, печериці мариновані, зелений горошок, перець болгарський, сир “Едам”, цибуля, майонезна заправка"
+    }, 
+    {
+        "price": 68,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Салат теплий з телятиною", 
+        "snippet": "телятина, листя салату, помідори,перець болгарський, печериці,соус з журавлини'"
+    }, 
+    {
+        "price": 39,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Сендвічі з куркою", 
+        "snippet": "та картоплею фрі"
+    }, 
+    {
+        "price": 46, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Сендвічі з салямі", 
+        "snippet": "та картоплею фрі"
+    }, 
+    {
+        "price": 45,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Бургер з куркою", 
+        "snippet": ""
+    }, 
+    {
+        "price": 64, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Купати по-домашньому", 
+        "snippet": "соус Барбекю"
+    }, 
+    {
+        "price": 48, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Ковбаски по-закарпатськи", 
+        "snippet": "соус Сальса"
+    }, 
+    {
+        "price": 88,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "'Ковбаски на грилі", 
+        "snippet": "соус Барбекю"
+    }, 
+    {
+        "price": 34,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Вареники", 
+        "snippet": "з сиром та картоплею"
+    }, 
+    {
+        "price": 55,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Паста Тоскана", 
+        "snippet": "пенне з куркою"
+    }, 
+    {
+        "price": 60,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Паста Карбонара", 
+        "snippet": "пенне з беконом, сир Пармезан"
+    }, 
+    {
+        "price": 30, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Борщ з м’ясом", 
+        "snippet": ""
+    }, 
+    {
+        "price": 62,  
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Тріо з сала та квашених огірочків", 
+        "snippet": "сало з паприкою, сало з часником,сало з перцем, огірки квашені"
+    }, 
+    {
+        "price": 95, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Тарілка м’ясних копченостей", 
+        "snippet": "бастурма, в’ялене м’ясо, салямі,суджук, соус Ткемалі"
+    }, 
+    {
+        "price": 70, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Сирна тарілка", 
+        "snippet": "Голандський, Дорблю, Брі"
+    }, 
+    {
+        "price": 48, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Стейк телячий", 
+        "snippet": ""
+    }, 
+    {
+        "price": 44, 
+        "Url": "zak/one.html", 
+        "imageUrl": "img/dog.jpg", 
+        "name": "Стейк свинний", 
+        "snippet": ""
+    },
+    {
+        "price": 140, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Лосось на пару", 
+        "snippet": "Філе лосося з овочами на пару"
+    },
+    {
+        "price": 80, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Курка з шпинатом", 
+        "snippet": "Куряче філе фаршироване шпинатом та моцарелою,суміш рису,сирний соус"
+    },
+    {
+        "price": 65, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Курка з сальсою", 
+        "snippet": "Куряче філе,болгарський перець,помідори чері,перцевий соус"
+    },
+    {
+        "price": 150, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Пепер стейк", 
+        "snippet": "Філе телятини,суміш перців,картопляний гратен,соус демі-глаз"
+    },
+    {
+        "price": 60, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Паста Три сири", 
+        "snippet": "Паста з вершковим соусом,Пармезан,Моцарела,Дорблю"
+    },
+    {
+        "price": 80, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Паста з лососем", 
+        "snippet": "Паста з лососем,шпинатом,вершковим соусом"
+    },
+    {
+        "price": 120, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Карпачо з лососем", 
+        "snippet": "Свіжий лосось,мікс салату,Пармезан,лимонний дрессінг"
+    },
+    {
+        "price": 80, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Паштет з телятини", 
+        "snippet": "Мус з філе телятини,чіабата,апельсинове желе"
+    },
+    {
+        "price": 50, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Брускети", 
+        "snippet": "з тартаром з лосося,з куркою"
+    },
+    {
+        "price": 100, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Салат з вугрем", 
+        "snippet": "Копчений вугор,рисова вермішель,чука,соус унагі"
+    },
+    {
+        "price": 100, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Салат з свіжим лососем", 
+        "snippet": "Листя салату,лосось,перепелині яйця,лимонний дрессінг"
+    },
+    {
+        "price": 65, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Салат з курячим філе", 
+        "snippet": "Листя салату,свіжі томати,печериці,бекон,пармезан,лимонний дрессінг"
+    },
+    {
+        "price": 75, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Теплий салат з телятини", 
+        "snippet": "Телятина,свіжі овочі,листя салату,лимонно-гірчичний дрессінг"
+    },
+    {
+        "price": 55, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Салат з сиром Фета", 
+        "snippet": "Свіжі овочі,маслини,Фета,оливкова олія"
+    },
+    {
+        "price": 40, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Австрійський суп", 
+        "snippet": "Мясний бульйон,вялені томати"
+    },
+    {
+        "price": 40, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Консоме з курятини", 
+        "snippet": "Курячий бульйон,броколі,морква,перепелині яйця"
+    },
+    {
+        "price": 65, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Крем-суп зі шпинату", 
+        "snippet": "Шпинат,вершки,Пармезан,грісіні"
+    },
+    {
+        "price": 90, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Сирний суп з креветками", 
+        "snippet": "Класичний сирний суп,коктельні креветки,соус Песто"
+    },
+    {
+        "price": 50, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Панакота", 
+        "snippet": "Класичний італійський десерт з ожиновим соусом"
+    },
+    {
+        "price": 50, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Крем-карамель", 
+        "snippet": "Заварний крем,карамель власного приготування,сезонні фрукти"
+    },
+    {
+        "price": 50, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Грушевий тарт", 
+        "snippet": "Крем-сир,груша,вершкове морозиво,малиновий соус"
+    },
+    {
+        "price": 60, 
+        "Url": "zak/lavie.html", 
+        "imageUrl": "img/lavi.jpg", 
+        "name": "Шоколадний Фондан", 
+        "snippet": "Гаряче шоколадне тістечко,морозиво,полуничний соус"
+    }
+]

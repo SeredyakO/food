@@ -1,0 +1,64 @@
+body{
+	background-image: url(../img/bp2.jpg);
+}
+
+.logo{
+	float: left;
+	
+	margin-left: 15px;
+	
+	
+}
+.map{
+	margin-left: 100px;
+	
+	
+}
+.infoclass{
+	width: 600px;
+	height: 170px;
+	margin-left: 15px;
+	margin-top: 10px;
+	
+	float: left;
+}
+.contactclass{
+	width: 300px;
+	
+	float: right;
+	margin-top: 10px;
+	margin-right: 450px;
+	
+}
+.info{
+	font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: bold;
+	
+}
+.contactclass ul {
+	list-style-type: none;
+	
+}
+.contactclass ul li a {
+	font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: bold;
+	
+}
+.contactclass ul li p {
+	font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: bold;
+	
+}
+.phone{
+	font-family: Comic Sans MS;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+
+

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en" ng-app="foodApp">
+<head>
+  <meta charset="utf-8">
+  <title>Де твоя Їжа</title>
+  <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.css">
+  <link rel="stylesheet" href="css/app.css">
+  <script src="bower_components/angular/angular.js"></script>
+  <script src="js/controllers.js"></script>
+</head>
+<body ng-controller="foodCtrl">
+
+    
+        <p class="log">Find your food</p>
+  
+       
+      
+
+      <div class="expo">
+        <p  class="exp">Даний веб-сайт для людей які хочуть спробувати смачненького але незнають який заклад відвідати.Просто введіть в поле назву страви, інградієнти або ціну на яку ви розраховуєте.Далі все буде зроблено за вас.А натснувши на ікону або назву ви зможете детальніше дізнатись про заклад в якому готують ваші улюблені страви. </p>
+       </div> 
+        
+        <div ng-click="showBlock = ! showBlock" class="search-box">
+          <div class="searchform">
+            <input id="s" type="text" place  ng-model="query"/>    
+              <div class="close">
+                 <span class="front"></span>
+                 <span class="back"></span>
+              </div>   
+          </div>
+        </div>
+
+     
+        <!--Body content-->
+
+        <ul ng-show="showBlock" class="foods">
+          <li ng-repeat="food in foods | filter:query | orderBy:orderProp" class="thumbnail">
+            <a ng-href="{{food.Url}}" class="thumb"><img ng-src="{{food.imageUrl}}"></a>
+            <a class="fname" href="{{food.Url}}">{{food.name}}</a>
+            <p>{{food.snippet}}</p>
+            <p class="price">{{food.price + " грн"}}</p>
+          </li>
+        </ul>
+
+      </div>
+    </div>
+  </div>
+
+</body>
+</html>
