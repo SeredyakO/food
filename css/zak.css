@@ -1,10 +1,11 @@
 body{
-	background-image: url(../img/bp2.jpg);
+	background-image: url(../img/back6.jpg);
 }
 
 .logo{
 	float: left;
-	
+	width:700;
+ 	height:450;
 	margin-left: 15px;
 	
 	
@@ -31,9 +32,10 @@ body{
 	
 }
 .info{
-	font-family: Comic Sans MS;
+	font-family: Comic;
     font-size: 15px;
     font-weight: bold;
+    color: #F8F8FF;
 	
 }
 .contactclass ul {
@@ -41,21 +43,24 @@ body{
 	
 }
 .contactclass ul li a {
-	font-family: Comic Sans MS;
+	font-family: Comic ;
     font-size: 15px;
     font-weight: bold;
+    color: #F8F8FF;
 	
 }
 .contactclass ul li p {
-	font-family: Comic Sans MS;
+	font-family: Comic;
     font-size: 15px;
     font-weight: bold;
+    color: #F8F8FF;
 	
 }
 .phone{
-	font-family: Comic Sans MS;
-    font-size: 15px;
+	font-family: Comic;
+    font-size: 20px;
     font-weight: bold;
+	text-decoration: none;
 }
 
 
